@@ -12,3 +12,5 @@
 - Arduino IDE
 - MIT APP INVENTOR
 - Mobile Application
+# Check for More Information
+- [Project Page](https://santosh-projects.blogspot.com/2022/05/industrialautomationwithmobileappliaction.html)
